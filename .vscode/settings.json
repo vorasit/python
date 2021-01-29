@@ -11,5 +11,6 @@
     "python.testing.unittestEnabled": false,
     "python.testing.pytestArgs": [
         "py"
-    ]
+    ],
+    "python.pythonPath": "py\\Scripts\\python.exe"
 }
